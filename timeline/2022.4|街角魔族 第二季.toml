@@ -1,0 +1,73 @@
+cover = "https://i0.hdslb.com/bfs/album/a1642ee6de6810bef76cfc109630444f3e36039d.jpg"
+
+[[1]]
+type = "v_l"
+ss = "05:17"
+t = "00:03"
+source = "https://b23.tv/ep510756"
+
+[[1]]
+type = "v_l"
+ss = "14:41"
+t = "00:07"
+source = "https://b23.tv/ep510756"
+
+[[3]]
+type = "v_l"
+ss = "18:58"
+t = "00:15"
+source = "https://b23.tv/ep510758"
+
+[[3]]
+type = "v_c"
+ss = "20:00"
+t = ""
+source = "https://b23.tv/ep510758"
+
+[[8]]
+type = "v_l"
+ss = "04:22"
+t = "00:20"
+source = "https://b23.tv/ep568581"
+
+[[9]]
+type = "v_l"
+ss = "04:12"
+t = "00:05"
+source = "https://b23.tv/ep568582"
+
+[[9]]
+type = "v_l"
+ss = "05:36"
+t = "00:33"
+source = "https://b23.tv/ep568582"
+
+[[9]]
+type = "v_l"
+ss = "08:06"
+t = "00:06"
+source = "https://b23.tv/ep568582"
+
+[[9]]
+type = "v_c"
+ss = "09:25"
+t = ""
+source = "https://b23.tv/ep568582"
+
+[[9]]
+type = "v_l"
+ss = "19:09"
+t = "00:06"
+source = "https://b23.tv/ep568582"
+
+[[10]]
+type = "v_l"
+ss = "01:15"
+t = "00:27"
+source = "https://b23.tv/ep634584"
+
+[[12]]
+type = "v_l"
+ss = "19:41"
+t = "00:08"
+source = "https://b23.tv/ep634586"

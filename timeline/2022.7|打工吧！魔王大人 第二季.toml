@@ -1,0 +1,37 @@
+cover = "https://i0.hdslb.com/bfs/album/54c0b0abbce7d67c97fdfb2c932d511ec6d52fb4.jpg"
+
+[[1]]
+type = "s_l"
+ss = "18:36"
+t = "00:02"
+source = "https://b23.tv/ep674708"
+
+[[3]]
+type = "v_l"
+ss = "09:57"
+t = "00:12"
+source = "https://b23.tv/ep674710"
+
+[[5]]
+type = "v_l"
+ss = "07:35"
+t = "00:06"
+source = "https://b23.tv/ep674712"
+
+[[5]]
+type = "v_l"
+ss = "11:49"
+t = "00:14"
+source = "https://b23.tv/ep674712"
+
+[[9]]
+type = "v_l"
+ss = "13:43"
+t = "00:19"
+source = "https://b23.tv/ep674716"
+
+[[10]]
+type = "v_l"
+ss = "21:08"
+t = "00:34"
+source = "https://b23.tv/ep674717"

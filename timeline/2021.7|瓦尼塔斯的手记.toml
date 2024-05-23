@@ -1,0 +1,55 @@
+cover="https://i0.hdslb.com/bfs/album/9217725c6e88298a41b975424c05434806856368.jpg"
+
+[[4]]
+type = "v_l"
+ss = "20:51"
+t = "00:56"
+source = "https://b23.tv/ep414645"
+
+[[11]]
+type = "v_l"
+ss = "18:54"
+t = "00:07"
+source = "https://b23.tv/ep414652"
+
+[[11]]
+type = "v_l"
+ss = "19:04"
+t = "00:02"
+source = "https://b23.tv/ep414652"
+
+[[11]]
+type = "v_l"
+ss = "20:32"
+t = "00:24"
+source = "https://b23.tv/ep414652"
+
+[[19]]
+type = "v_l"
+ss = "17:22"
+t = "00:03"
+source = "https://b23.tv/ep478661"
+
+[[19]]
+type = "s_l v_l"
+ss = "17:24"
+t = "00:15"
+source = "https://b23.tv/ep478661"
+
+[[21]]
+type = "v_l"
+ss = "17:14"
+t = "00:10"
+source = "https://b23.tv/ep478663"
+
+[[21]]
+type = "v_l"
+ss = "18:12"
+t = "00:04"
+source = "https://b23.tv/ep478663"
+
+[[21]]
+type = "v_l"
+ss = "18:21"
+t = "00:07"
+source = "https://b23.tv/ep478663"

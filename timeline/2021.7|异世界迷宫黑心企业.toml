@@ -1,0 +1,43 @@
+cover = "https://i0.hdslb.com/bfs/album/f04064bfb61e1072396e7df044068adf2c242839.jpg"
+
+[[6]]
+type = "v_c"
+ss = "00:04"
+t = ""
+source = "https://b23.tv/ep410019"
+
+[[6]]
+type = "v_l"
+ss = "01:21"
+t = "00:03"
+source = "https://b23.tv/ep410019"
+
+[[6]]
+type = "v_l"
+ss = "03:09"
+t = "00:11"
+source = "https://b23.tv/ep410019"
+
+[[6]]
+type = "s_c"
+ss = "03:12"
+t = ""
+source = "https://b23.tv/ep410019"
+
+[[6]]
+type = "v_l"
+ss = "09:43"
+t = "00:09"
+source = "https://b23.tv/ep410019"
+
+[[6]]
+type = "v_l"
+ss = "10:33"
+t = "00:19"
+source = "https://b23.tv/ep410019"
+
+[[6]]
+type = "v_l"
+ss = "10:45"
+t = "00:14"
+source = "https://b23.tv/ep410019"
