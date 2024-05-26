@@ -5,9 +5,11 @@ type = "v_l"
 ss = "12:16"
 t = "00:06"
 source = "https://b23.tv/ep780982"
+clip = "https://alist.xrzyun.eu.org/aniclip-upload/2023.10/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%8E%B2/6-12_16.mkv"
 
 [[9]]
 type = "v_l"
 ss = "18:27"
 t = "00:02"
 source = "https://b23.tv/ep787484"
+clip = "https://alist.xrzyun.eu.org/aniclip-upload/2023.10/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%8E%B2/9-18_27.mkv"
