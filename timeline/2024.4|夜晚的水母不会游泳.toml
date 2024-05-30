@@ -107,3 +107,19 @@ type = "v_c"
 ss = "14:17"
 t = ""
 source = "https://b23.tv/ep823447"
+
+[[8]]
+type = "v_c"
+ss = "05:56"
+t = ""
+source = "https://b23.tv/ep823448"
+tips = ""
+clip = ""
+
+[[8]]
+type = "v_l"
+ss = "06:50"
+t = "7"
+source = "https://b23.tv/ep823448"
+tips = ""
+clip = ""
