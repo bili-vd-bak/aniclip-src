@@ -16,9 +16,13 @@ jobs:
         with:
           repository: bili-vd-bak/aniclip
 
+      - name: Setup git config
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
       - name: Update Submodules
         run: |
           git submodule update --remote --merge
-          git add src
-          git commit -m "docs. Update submodules(src)"
+          git commit -a -m "docs. Update submodules(src)"
           git push
