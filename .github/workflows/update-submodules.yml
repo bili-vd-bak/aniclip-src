@@ -1,0 +1,24 @@
+name: Update Submodules
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch: ~
+
+jobs:
+  update-submodules:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          repository: bili-vd-bak/aniclip
+
+      - name: Update Submodules
+        run: |
+          git submodule update --remote --merge
+          git add src
+          git commit -m "docs. Update submodules(src)"
+          git push
