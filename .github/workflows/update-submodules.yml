@@ -9,12 +9,23 @@ on:
 jobs:
   update-submodules:
     runs-on: ubuntu-latest
+    environment: action
 
     steps:
+      - name: Generate a token
+        uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+          repositories: "aniclip,aniclip-src"
+    
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           repository: bili-vd-bak/aniclip
+          submodules: recursive
+          token: ${{ steps.app-token.outputs.token }}
 
       - name: Setup git config
         run: |
@@ -22,7 +33,12 @@ jobs:
           git config --global user.name "github-actions[bot]"
 
       - name: Update Submodules
+        env:
+          xat: ${{ steps.app-token.outputs.token }}
         run: |
+          rm -rf src
+          git submodule init
           git submodule update --remote --merge
           git commit -a -m "docs. Update submodules(src)"
+          # git push https://x-access-token:${xat}@github.com/bili-vd-bak/aniclip.git
           git push
