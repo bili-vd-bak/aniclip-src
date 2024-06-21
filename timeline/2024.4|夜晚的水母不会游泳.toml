@@ -123,3 +123,43 @@ t = "7"
 source = "https://b23.tv/ep823448"
 tips = ""
 clip = ""
+
+[[9]]
+type = "v_c"
+ss = "05:52"
+t = ""
+source = "https://b23.tv/ep823449"
+tips = ""
+clip = ""
+
+[[9]]
+type = "v_c"
+ss = "23:23"
+t = ""
+source = "https://b23.tv/ep823449"
+tips = ""
+clip = ""
+
+[[10]]
+type = "v_c"
+ss = "06:10"
+t = ""
+source = "https://b23.tv/ep825188"
+tips = ""
+clip = ""
+
+[[11]]
+type = "v_l"
+ss = "02:36"
+t = "6"
+source = "https://b23.tv/ep825189"
+tips = ""
+clip = ""
+
+[[11]]
+type = "v_c"
+ss = "09:56"
+t = ""
+source = "https://b23.tv/ep825189"
+tips = ""
+clip = ""
