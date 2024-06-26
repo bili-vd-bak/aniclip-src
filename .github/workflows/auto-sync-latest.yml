@@ -40,7 +40,7 @@ jobs:
       - name: Update Submodules
         run: |
           git add ./AutoSyncLatest
-          git commit -S -m "docs: AutoSyncLatest from hzj.wiki"
+          git commit -m "docs: AutoSyncLatest from hzj.wiki"
           #git push
 
       - name: Push changes
