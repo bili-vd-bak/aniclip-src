@@ -35,8 +35,14 @@ jobs:
           rm -rf ./AutoSyncLatest
           mkdir ./AutoSyncLatest
           deno run --allow-all ${{ vars.DENO_RUN_URL }}
+          ls -la ./AutoSyncLatest
 
       - name: Update Submodules
         run: |
           git commit -a -S -m "docs: AutoSyncLatest from hzj.wiki"
-          git push
+          #git push
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          force_with_lease: true
