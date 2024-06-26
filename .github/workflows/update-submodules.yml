@@ -41,6 +41,6 @@ jobs:
           rm -rf src
           git submodule init
           git submodule update --remote --merge
-          git commit -a -S -m "docs. Update submodules(src)"
+          git commit -a -S -m "docs: Update submodules(src)"
           # git push https://x-access-token:${xat}@github.com/bili-vd-bak/aniclip.git
           git push
