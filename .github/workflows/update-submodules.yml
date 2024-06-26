@@ -6,11 +6,15 @@ on:
       - master
     paths-ignore:
       - ".github/**"
+  workflow_run:
+    workflows: ["Auto Sync Latest"]
+    types: [completed]
   workflow_dispatch: ~
 
 jobs:
   update-submodules:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     environment: action
 
     steps:

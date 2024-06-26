@@ -11,14 +11,6 @@ jobs:
     environment: action
 
     steps:
-      - name: Generate a token
-        uses: actions/create-github-app-token@v1
-        id: app-token
-        with:
-          app-id: ${{ vars.APP_ID }}
-          private-key: ${{ secrets.PRIVATE_KEY }}
-          repositories: "aniclip,aniclip-src"
-
       - name: Setup Deno
         uses: denoland/setup-deno@v1.1.4
 
