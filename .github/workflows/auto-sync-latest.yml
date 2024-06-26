@@ -1,0 +1,40 @@
+name: Update Submodules
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch: ~
+
+jobs:
+  update-submodules:
+    runs-on: ubuntu-latest
+    environment: action
+
+    steps:
+      - name: Generate a token
+        uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+          repositories: "aniclip,aniclip-src"
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1.1.4
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup git config
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Sync from hzj.wiki
+        run: |
+          deno run ${{ vars.deno_run_url }}
+
+      - name: Update Submodules
+        run: |
+          git commit -a -S -m "docs: AutoSyncLatest from hzj.wiki"
+          git push
