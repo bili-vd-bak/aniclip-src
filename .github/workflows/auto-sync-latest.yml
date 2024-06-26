@@ -33,6 +33,7 @@ jobs:
       - name: Sync from hzj.wiki
         run: |
           rm -rf ./AutoSyncLatest
+          mkdir ./AutoSyncLatest
           deno run --allow-all ${{ vars.DENO_RUN_URL }}
 
       - name: Update Submodules
