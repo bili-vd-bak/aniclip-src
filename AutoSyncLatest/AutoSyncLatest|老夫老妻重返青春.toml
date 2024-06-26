@@ -1,0 +1,100 @@
+title = "自动同步最新 | 老夫老妻重返青春 (已完结)"
+cover = "https://i0.hdslb.com/bfs/new_dyn/6ac3f3154951673ee696c62e8314c790512995925.jpg"
+tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
+
+[["第01话"]]
+type = "v_l"
+ss = "08:38"
+t = 19
+source = "https://b23.tv/ep819775"
+
+[["第02话"]]
+type = "v_l"
+ss = "04:32"
+t = 2
+source = "https://b23.tv/ep819776"
+
+[["第02话"]]
+type = "v_c"
+ss = "04:35"
+source = "https://b23.tv/ep819776"
+
+[["第02话"]]
+type = "v_c"
+ss = "07:17"
+source = "https://b23.tv/ep819776"
+
+[["第02话"]]
+type = "v_c"
+ss = "09:52"
+source = "https://b23.tv/ep819776"
+
+[["第03话"]]
+type = "v_c"
+ss = "11:50"
+source = "https://b23.tv/ep819777"
+
+[["第03话"]]
+type = "v_c s_c"
+ss = "12:28"
+source = "https://b23.tv/ep819777"
+
+[["第07话"]]
+type = "v_c"
+ss = "07:48"
+source = "https://b23.tv/ep823819"
+
+[["第07话"]]
+type = "s_c"
+ss = "07:53"
+source = "https://b23.tv/ep823819"
+
+[["第07话"]]
+type = "s_c"
+ss = "07:56"
+source = "https://b23.tv/ep823819"
+
+[["第07话"]]
+type = "v_c"
+ss = "11:38"
+source = "https://b23.tv/ep823819"
+
+[["第07话"]]
+type = "v_l"
+ss = "11:58"
+t = 10
+source = "https://b23.tv/ep823819"
+
+[["第07话"]]
+type = "v_l"
+ss = "14:24"
+t = 8
+source = "https://b23.tv/ep823819"
+
+[["第07话"]]
+type = "s_l"
+ss = "15:15"
+t = 4
+source = "https://b23.tv/ep823819"
+
+[["第07话"]]
+type = "v_c"
+ss = "15:21"
+source = "https://b23.tv/ep823819"
+
+[["第07话"]]
+type = "v_l"
+ss = "19:25"
+t = 19
+source = "https://b23.tv/ep823819"
+
+[["第10话"]]
+type = "v_丟失"
+ss = "12:12"
+t = 48
+source = "https://b23.tv/ep825956"
+
+[["第10话"]]
+type = "v_c"
+ss = "13:42"
+source = "https://b23.tv/ep825956"
