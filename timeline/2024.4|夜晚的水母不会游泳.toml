@@ -163,3 +163,20 @@ t = ""
 source = "https://b23.tv/ep825189"
 tips = ""
 clip = ""
+
+[[12]]
+type = "v_l"
+ss = "02:31"
+source = "https://b23.tv/ep825190"
+
+[[12]]
+type = "v_l"
+ss = "16:30"
+t = 6
+source = "https://b23.tv/ep825190"
+
+[[12]]
+type = "v_c"
+ss = "20:07"
+t = ""
+source = "https://b23.tv/ep825190"

@@ -1,0 +1,58 @@
+cover = "https://i0.hdslb.com/bfs/new_dyn/95733b5ac8df68c344365938896e55f6512995925.jpg"
+
+[[1]]
+type = "v_l"
+ss = "02:01"
+t = 2
+source = "https://b23.tv/ep819571"
+
+[[1]]
+type = "v_c"
+ss = "06:36"
+source = "https://b23.tv/ep819571"
+
+[[1]]
+type = "v_c"
+ss = "07:08"
+source = "https://b23.tv/ep819571"
+
+[[2]]
+type = "v_l"
+ss = "10:31"
+t = 1
+source = "https://b23.tv/ep819572"
+
+[[2]]
+type = "v_l"
+ss = "13:02"
+t = 1
+source = "https://b23.tv/ep819572"
+
+[[3]]
+type = "v_l"
+ss = "17:26"
+t = 1
+source = "https://b23.tv/ep819573"
+
+[[3]]
+type = "v_l"
+ss = "19:19"
+t = 6
+source = "https://b23.tv/ep819573"
+
+[[4]]
+type = "v_l"
+ss = "15:52"
+t = 2
+source = "https://b23.tv/ep821140"
+
+[[4]]
+type = "v_l"
+ss = "15:56"
+t = 5
+source = "https://b23.tv/ep821140"
+
+[[4]]
+type = "v_c"
+ss = "16:22"
+source = "https://b23.tv/ep821140"

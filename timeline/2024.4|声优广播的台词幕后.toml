@@ -1,0 +1,25 @@
+cover = "https://i0.hdslb.com/bfs/new_dyn/fe7fb9c5f7a86fcf99f77d3893aee1b9512995925.jpg"
+
+[[2]]
+type = "s_l"
+ss = "08:02"
+t = 6
+source = "https://b23.tv/ep818579"
+
+[[3]]
+type = "v_l"
+ss = "04:21"
+t = 192
+source = "https://b23.tv/ep818580"
+
+[[5]]
+type = "v_l"
+ss = "15:41"
+t = 30
+source = "https://b23.tv/ep820132"
+
+[[6]]
+type = "v_l"
+ss = "17:01"
+t = 56
+source = "https://b23.tv/ep820133"
