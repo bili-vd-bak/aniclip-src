@@ -1,4 +1,4 @@
-title = "自动同步最新 | 声优广播的台词幕后 (更新中:06)"
+title = "自动同步最新 | 声优广播的台词幕后 (已完结)"
 cover = "https://i0.hdslb.com/bfs/new_dyn/fe7fb9c5f7a86fcf99f77d3893aee1b9512995925.jpg"
 tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
 
@@ -25,3 +25,9 @@ type = "v_l"
 ss = "17:01"
 t = 56
 source = "https://b23.tv/ep820133"
+
+[["第12话"]]
+type = "s_l 3s        16:26"
+ss = "15:46"
+t = 3
+source = "https://b23.tv/ep825960"
