@@ -27,7 +27,13 @@ t = 56
 source = "https://b23.tv/ep820133"
 
 [["第12话"]]
-type = "s_l 3s        16:26"
+type = "s_l"
 ss = "15:46"
+t = 3
+source = "https://b23.tv/ep825960"
+
+[["第12话"]]
+type = "s_l"
+ss = "16:26"
 t = 3
 source = "https://b23.tv/ep825960"

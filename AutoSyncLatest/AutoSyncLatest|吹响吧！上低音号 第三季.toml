@@ -1,4 +1,4 @@
-title = "自动同步最新 | 吹响吧！上低音号 第三季 (更新中:12)"
+title = "自动同步最新 | 吹响吧！上低音号 第三季 (已完结)"
 cover = "https://i0.hdslb.com/bfs/new_dyn/211f083bd07494761b1c1e132f72c3ba512995925.jpg"
 tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
 
@@ -23,3 +23,8 @@ source = "https://b23.tv/ep819316"
 type = "v_c"
 ss = "23:22"
 source = "https://b23.tv/ep825575"
+
+[["第13话"]]
+type = "v_c"
+ss = "12:55"
+source = "https://b23.tv/ep825576"
