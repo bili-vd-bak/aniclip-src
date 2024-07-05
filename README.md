@@ -1,6 +1,8 @@
 # AniClip 番剧删减汇总(数据仓库)
 
-**Copyright CC BY-NC-SA**
+网页位于<https://aniclip.xrzyun.eu.org>  
+
+**Copyright CC BY-NC-SA 4.0**  
 
 > [!CAUTION]
 > **须知(数据来源)**:
@@ -19,7 +21,7 @@
 ## LICENSE 许可证
 
 本仓库：  
-**数据部分**(仓库文件、文档中所有显示番剧删减信息的表格或文字等)采用[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)许可协议共享。
+**数据部分**(仓库文件、文档中所有显示番剧删减信息的表格或文字等)采用[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)许可协议共享。
 
 ## 贡献指南
 
