@@ -1,0 +1,18 @@
+cover = "https://i0.hdslb.com/bfs/new_dyn/23e74263b01ca49ecd8f1fd22233a519512995925.jpg"
+
+[[1]]
+type = "v_c"
+ss = "08:02"
+source = "https://b23.tv/ep827806"
+
+[[1]]
+type = "v_l"
+ss = "08:22"
+t = 7
+source = "https://b23.tv/ep827806"
+
+[[1]]
+type = "v_l"
+ss = "16:05"
+t = 10
+source = "https://b23.tv/ep827806"
