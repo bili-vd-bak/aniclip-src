@@ -1,0 +1,20 @@
+title = "自动同步最新 | 亦叶亦花 (收录中：01)"
+cover = "https://i0.hdslb.com/bfs/new_dyn/23e74263b01ca49ecd8f1fd22233a519512995925.jpg"
+tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
+
+[["第01话"]]
+type = "v_c"
+ss = "08:02"
+source = "https://b23.tv/ep827806"
+
+[["第01话"]]
+type = "v_l"
+ss = "08:22"
+t = 7
+source = "https://b23.tv/ep827806"
+
+[["第01话"]]
+type = "v_l"
+ss = "16:05"
+t = 10
+source = "https://b23.tv/ep827806"

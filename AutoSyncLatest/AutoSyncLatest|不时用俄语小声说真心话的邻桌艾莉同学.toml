@@ -1,4 +1,4 @@
-title = "自动同步最新 | 不时用俄语小声说真心话的邻桌艾莉同学 (收录中:1)"
+title = "自动同步最新 | 不时用俄语小声说真心话的邻桌艾莉同学 (收录中:02)"
 cover = "https://i0.hdslb.com/bfs/new_dyn/34194e6d865596880da37c74e4c71824512995925.jpg"
 tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
 
@@ -48,3 +48,49 @@ type = "s_l"
 ss = "21:25"
 t = 2
 source = "https://b23.tv/ep827835"
+
+[["第02话"]]
+type = "s_l 4"
+ss = "07:30"
+source = "https://b23.tv/ep827836"
+
+[["第02话"]]
+type = "v_l"
+ss = "08:10"
+t = 26
+source = "https://b23.tv/ep827836"
+
+[["第02话"]]
+type = "v_l"
+ss = "08:15"
+t = 4
+source = "https://b23.tv/ep827836"
+
+[["第02话"]]
+type = "v_l"
+ss = "08:51"
+t = 4
+source = "https://b23.tv/ep827836"
+
+[["第02话"]]
+type = "v_l"
+ss = "13:27"
+t = 8
+source = "https://b23.tv/ep827836"
+
+[["第02话"]]
+type = "s_l"
+ss = "13:41"
+t = 2
+source = "https://b23.tv/ep827836"
+
+[["第02话"]]
+type = "v_l"
+ss = "18:50"
+t = 16
+source = "https://b23.tv/ep827836"
+
+[["第02话"]]
+type = "v_c"
+ss = "21:01"
+source = "https://b23.tv/ep827836"
