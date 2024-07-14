@@ -1,0 +1,24 @@
+title = "自动同步最新 | 地下城里的人们 (收录中：02)"
+cover = "https://lain.bgm.tv/r/400/pic/cover/l/32/fd/450586_FdLdq.jpg"
+tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
+
+[["第01话"]]
+type = "v_c"
+ss = "06:19"
+source = "https://b23.tv/ep828473"
+
+[["第01话"]]
+type = "v_l"
+ss = "06:38"
+t = 2
+source = "https://b23.tv/ep828473"
+
+[["第02话"]]
+type = "v_c"
+ss = "12:16"
+source = "https://b23.tv/ep828474"
+
+[["第02话"]]
+type = "v_c"
+ss = "12:32"
+source = "https://b23.tv/ep828474"
