@@ -1,0 +1,26 @@
+cover = "https://lain.bgm.tv/r/400/pic/cover/l/32/fd/450586_FdLdq.jpg"
+
+[[1]]
+type = "v_c"
+ss = "06:19"
+source = "https://b23.tv/ep828473"
+clip = "TP-main::"
+
+[[1]]
+type = "v_l"
+ss = "06:38"
+t = 2
+source = "https://b23.tv/ep828473"
+clip = "TP-main::"
+
+[[2]]
+type = "v_c"
+ss = "12:16"
+source = "https://b23.tv/ep828474"
+clip = "TP-main::"
+
+[[2]]
+type = "v_c"
+ss = "12:32"
+source = "https://b23.tv/ep828474"
+clip = "TP-main::"
