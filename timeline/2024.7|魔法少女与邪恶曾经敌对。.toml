@@ -1,0 +1,30 @@
+cover = "https://lain.bgm.tv/r/400/pic/cover/l/c9/4f/465884_fqZbB.jpg"
+
+[[1]]
+type = "v_l"
+ss = "08:45"
+t = 4
+source = "https://b23.tv/ep830142"
+
+[[2]]
+type = "v_l"
+ss = "05:48"
+t = 6
+source = "https://b23.tv/ep830143"
+
+[[2]]
+type = "v_l"
+ss = "07:48"
+t = 2
+source = "https://b23.tv/ep830143"
+
+[[2]]
+type = "v_l"
+ss = "07:55"
+t = 8
+source = "https://b23.tv/ep830143"
+
+[[2]]
+type = "v_c"
+ss = "11:15"
+source = "https://b23.tv/ep830143"

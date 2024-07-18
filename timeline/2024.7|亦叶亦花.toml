@@ -1,4 +1,4 @@
-cover = "https://i0.hdslb.com/bfs/new_dyn/23e74263b01ca49ecd8f1fd22233a519512995925.jpg"
+cover = "https://lain.bgm.tv/r/400/pic/cover/l/d5/89/464561_DRdV0.jpg"
 
 [[1]]
 type = "v_c"
@@ -16,3 +16,15 @@ type = "v_l"
 ss = "16:05"
 t = 10
 source = "https://b23.tv/ep827806"
+
+[[2]]
+type = "v_l"
+ss = "06:16"
+t = 8
+source = "https://b23.tv/ep829073"
+
+[[2]]
+type = "v_l"
+ss = "06:19"
+t = 6
+source = "https://b23.tv/ep829073"
