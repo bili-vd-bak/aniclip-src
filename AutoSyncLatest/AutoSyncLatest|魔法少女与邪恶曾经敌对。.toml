@@ -1,0 +1,32 @@
+title = "自动同步最新 | 魔法少女与邪恶曾经敌对。 (收录中：02)"
+cover = "https://lain.bgm.tv/r/400/pic/cover/l/c9/4f/465884_fqZbB.jpg"
+tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
+
+[["第01话"]]
+type = "v_l"
+ss = "08:45"
+t = 4
+source = "https://b23.tv/ep830142"
+
+[["第02话"]]
+type = "v_l"
+ss = "05:48"
+t = 6
+source = "https://b23.tv/ep830143"
+
+[["第02话"]]
+type = "v_l"
+ss = "07:48"
+t = 2
+source = "https://b23.tv/ep830143"
+
+[["第02话"]]
+type = "v_l"
+ss = "07:55"
+t = 8
+source = "https://b23.tv/ep830143"
+
+[["第02话"]]
+type = "v_c"
+ss = "11:15"
+source = "https://b23.tv/ep830143"
