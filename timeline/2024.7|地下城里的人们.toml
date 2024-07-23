@@ -24,3 +24,10 @@ type = "v_c"
 ss = "12:32"
 source = "https://b23.tv/ep828474"
 clip = "TP-main::"
+
+[[3]]
+type = "v_l"
+ss = "12:00"
+t = 2
+source = "https://b23.tv/ep828475"
+clip = "TP-main::"
