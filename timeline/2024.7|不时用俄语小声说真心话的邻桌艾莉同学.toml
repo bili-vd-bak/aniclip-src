@@ -1,4 +1,8 @@
 cover = "https://lain.bgm.tv/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg"
+tips = """
+每周三更新，
+观看：https://alist.xiaoya.pro/每日更新/动漫/日本/新番/03/不时轻声地以俄语遮羞的邻座艾莉同学
+"""
 
 [[1]]
 type = "v_c"
@@ -108,4 +112,18 @@ clip = "TP-main::"
 type = "v_c"
 ss = "21:01"
 source = "https://b23.tv/ep827836"
+clip = "TP-main::"
+
+[[4]]
+type = "s_l"
+ss = "20:03"
+t = 2
+source = "https://b23.tv/ep829607"
+clip = "TP-main::"
+
+[[4]]
+type = "v_l"
+ss = "20:12"
+t = 4
+source = "https://b23.tv/ep829607"
 clip = "TP-main::"

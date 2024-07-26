@@ -1,4 +1,8 @@
 cover = "https://lain.bgm.tv/r/400/pic/cover/l/c9/4f/465884_fqZbB.jpg"
+tips = """
+每周二更新。
+观看：https://alist.xiaoya.pro/每日更新/动漫/日本/新番/02/曾经、魔法少女和邪恶相互为敌。
+"""
 
 [[1]]
 type = "v_l"
@@ -28,3 +32,19 @@ source = "https://b23.tv/ep830143"
 type = "v_c"
 ss = "11:15"
 source = "https://b23.tv/ep830143"
+
+[[3]]
+type = "v_c"
+ss = "03:56"
+source = "https://b23.tv/ep830144"
+
+[[3]]
+type = "v_l"
+ss = "06:20"
+t = 7
+source = "https://b23.tv/ep830144"
+
+[[3]]
+type = "v_c"
+ss = "06:33"
+source = "https://b23.tv/ep830144"
