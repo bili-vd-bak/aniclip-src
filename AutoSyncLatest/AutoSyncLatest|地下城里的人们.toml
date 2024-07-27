@@ -1,4 +1,4 @@
-title = "自动同步最新 | 地下城里的人们 (new! 03)"
+title = "自动同步最新 | 地下城里的人们 (new! 04)"
 cover = "https://lain.bgm.tv/r/400/pic/cover/l/32/fd/450586_FdLdq.jpg"
 tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
 
@@ -28,3 +28,24 @@ type = "v_l"
 ss = "12:00"
 t = 2
 source = "https://b23.tv/ep828475"
+
+[["第04话"]]
+type = "v_c"
+ss = "19:38"
+source = "https://b23.tv/ep828476"
+
+[["第04话"]]
+type = "v_l"
+ss = "19:40"
+t = 2
+source = "https://b23.tv/ep828476"
+
+[["第04话"]]
+type = "v_c"
+ss = "19:42"
+source = "https://b23.tv/ep828476"
+
+[["第04话"]]
+type = "v_c"
+ss = "22:04"
+source = "https://b23.tv/ep828476"
