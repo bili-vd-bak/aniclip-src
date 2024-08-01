@@ -1,4 +1,4 @@
-title = "自动同步最新 | 不时用俄语小声说真心话的邻桌艾莉同学 (new! 04)"
+title = "自动同步最新 | 不时用俄语小声说真心话的邻桌艾莉同学 (new! 05)"
 cover = "https://lain.bgm.tv/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg"
 tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
 
@@ -106,3 +106,83 @@ type = "v_l"
 ss = "20:12"
 t = 4
 source = "https://b23.tv/ep829607"
+
+[["第05话"]]
+type = "v_l 4"
+ss = "01:44"
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l"
+ss = "03:15"
+t = 117
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l 47"
+ss = "04:01"
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l"
+ss = "04:08"
+t = 19
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "s_l"
+ss = "05:42"
+t = 2
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_c"
+ss = "07:10"
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "s_l"
+ss = "07:36"
+t = 2
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l"
+ss = "10:12"
+t = 10
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l"
+ss = "10:25"
+t = 14
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l"
+ss = "10:46"
+t = 2
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l"
+ss = "10:50"
+t = 3
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l"
+ss = "11:27"
+t = 5
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_l"
+ss = "11:39"
+t = 4
+source = "https://b23.tv/ep829608"
+
+[["第05话"]]
+type = "v_c"
+ss = "13:10"
+source = "https://b23.tv/ep829608"
