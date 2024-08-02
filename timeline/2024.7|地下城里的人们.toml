@@ -35,3 +35,28 @@ ss = "12:00"
 t = 2
 source = "https://b23.tv/ep828475"
 clip = "TP-main::"
+
+[[4]]
+type = "v_c"
+ss = "19:38"
+source = "https://b23.tv/ep828476"
+tips = "短时重复，合并"
+
+[[4]]
+type = "v_l"
+ss = "19:40"
+t = 2
+source = "https://b23.tv/ep828476"
+clip = "TP-main::"
+
+[[4]]
+type = "v_c"
+ss = "19:42"
+source = "https://b23.tv/ep828476"
+tips = "短时重复，合并"
+
+[[4]]
+type = "v_c"
+ss = "22:04"
+source = "https://b23.tv/ep828476"
+clip = "TP-main::"
