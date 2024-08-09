@@ -53,3 +53,15 @@ source = "https://b23.tv/ep830144"
 type = "v_c"
 ss = "03:45"
 source = "https://b23.tv/ep830966"
+
+[[5]]
+type = "v_l"
+ss = "00:45"
+t = 5
+source = "https://b23.tv/ep830967"
+
+[[5]]
+type = "v_l"
+ss = "06:38"
+t = 13
+source = "https://b23.tv/ep830967"

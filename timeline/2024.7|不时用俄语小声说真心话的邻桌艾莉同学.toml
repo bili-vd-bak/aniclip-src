@@ -222,3 +222,24 @@ type = "v_c"
 ss = "13:10"
 source = "https://b23.tv/ep829608"
 clip = "TP-main::"
+
+[[6]]
+type = "v_l"
+ss = "04:10"
+t = 21
+source = "https://b23.tv/ep829609"
+clip = "TP-main::"
+
+[[6]]
+type = "s_l"
+ss = "04:32"
+t = 3
+source = "https://b23.tv/ep829609"
+clip = "TP-main::"
+
+[[6]]
+type = "v_l"
+ss = "15:05"
+t = 8
+source = "https://b23.tv/ep829609"
+clip = "TP-main::"
