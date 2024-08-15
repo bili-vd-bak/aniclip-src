@@ -1,4 +1,4 @@
-title = "自动同步最新 | 不时用俄语小声说真心话的邻桌艾莉同学 (new! 06)"
+title = "自动同步最新 | 不时用俄语小声说真心话的邻桌艾莉同学 (new! 07)"
 cover = "https://lain.bgm.tv/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg"
 tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
 
@@ -204,3 +204,15 @@ type = "v_l"
 ss = "15:05"
 t = 8
 source = "https://b23.tv/ep829609"
+
+[["第07话"]]
+type = "v_l"
+ss = "09:01"
+t = 27
+source = "https://b23.tv/ep833028"
+
+[["第07话"]]
+type = "s_l"
+ss = "09:28"
+t = 6
+source = "https://b23.tv/ep833028"
