@@ -65,3 +65,36 @@ type = "v_l"
 ss = "06:38"
 t = 13
 source = "https://b23.tv/ep830967"
+
+[[6]]
+type = "v_l"
+ss = "00:38"
+t = 4
+source = "https://b23.tv/ep830968"
+
+[[6]]
+type = "v_l"
+ss = "00:41"
+t = 1
+source = "https://b23.tv/ep830968"
+
+[[6]]
+type = "s_c"
+ss = "03:53"
+source = "https://b23.tv/ep830968"
+
+[[6]]
+type = "s_c"
+ss = "05:52"
+source = "https://b23.tv/ep830968"
+
+[[6]]
+type = "v_l"
+ss = "08:00"
+t = 6
+source = "https://b23.tv/ep830968"
+
+[[6]]
+type = "s_c"
+ss = "10:53"
+source = "https://b23.tv/ep830968"

@@ -129,8 +129,9 @@ source = "https://b23.tv/ep829607"
 clip = "TP-main::"
 
 [[5]]
-type = "v_l 4"
+type = "v_l"
 ss = "01:44"
+t = 4
 source = "https://b23.tv/ep829608"
 clip = "TP-main::"
 
@@ -242,4 +243,18 @@ type = "v_l"
 ss = "15:05"
 t = 8
 source = "https://b23.tv/ep829609"
+clip = "TP-main::"
+
+[[7]]
+type = "v_l"
+ss = "09:01"
+t = 27
+source = "https://b23.tv/ep833028"
+clip = "TP-main::"
+
+[[7]]
+type = "s_l"
+ss = "09:28"
+t = 6
+source = "https://b23.tv/ep833028"
 clip = "TP-main::"
