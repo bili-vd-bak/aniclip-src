@@ -1,4 +1,4 @@
-title = "自动同步最新 | 亚托莉 -我挚爱的时光- (new! 04)"
+title = "自动同步最新 | 亚托莉 -我挚爱的时光- (new! 06)"
 cover = "https://lain.bgm.tv/r/400/pic/cover/l/66/6d/397604_TgJ63.jpg"
 tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
 
@@ -31,3 +31,8 @@ type = "v_l"
 ss = "12:05"
 t = 19
 source = "https://b23.tv/ep831244"
+
+[["第06话"]]
+type = "v_c"
+ss = "12:04"
+source = "https://b23.tv/ep831867"

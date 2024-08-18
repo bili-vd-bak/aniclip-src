@@ -1,4 +1,4 @@
-title = "自动同步最新 | 百变的七仓同学 (new! 05)"
+title = "自动同步最新 | 百变的七仓同学 (new! 07)"
 cover = "https://lain.bgm.tv/r/400/pic/cover/l//0c/fd/428823_vuwNR.jpg"
 tips = "由自动程序从 hzj.wiki 同步而来，由于原站HTML问题，可能解析有误，请优先参考人工核准项目。"
 
@@ -49,3 +49,9 @@ type = "v_l"
 ss = "20:30"
 t = 3
 source = "https://b23.tv/ep827159"
+
+[["第07话"]]
+type = "v_l"
+ss = "15:23"
+t = 12
+source = "https://b23.tv/ep827161"
