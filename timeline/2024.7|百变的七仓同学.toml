@@ -60,3 +60,10 @@ ss = "20:30"
 t = 3
 source = "https://b23.tv/ep827159"
 clip = "TP-main::"
+
+[[7]]
+type = "v_l"
+ss = "15:23"
+t = 12
+source = "https://b23.tv/ep827161"
+clip = "TP-main::"

@@ -38,3 +38,9 @@ ss = "12:05"
 t = 19
 source = "https://b23.tv/ep831244"
 clip = "TP-main::"
+
+[["第06话"]]
+type = "v_c"
+ss = "12:04"
+source = "https://b23.tv/ep831867"
+clip = "TP-main::"
